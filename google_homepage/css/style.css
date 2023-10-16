@@ -9,7 +9,7 @@
 }
 .headerli
 {
-  display: inline-block;
+  display:inline-block;
   float: right;
 }
 .headerli a {
@@ -57,7 +57,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
 
 .search {
-  
+  border: 1px solid red;
   flex: 1;
   display: flex;
   padding: 5px 8px 0 16px;
@@ -148,7 +148,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   line-height: 27px;
   min-width: 54px;
   text-align: center;
-  cursor: pointer;
+ 
   user-select: none;
 }
 
